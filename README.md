@@ -5,8 +5,6 @@
 </div>
 
 <div style=display: inline_block"><br>
-  <img align="center" alt="Tonho-HTML" height="30px" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Tonho-CSS" height="30px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tonho-HTML" height="30px" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
