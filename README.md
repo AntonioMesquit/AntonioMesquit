@@ -1,6 +1,6 @@
 <div>
-  <a href="https://github.com/antoniomesquit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniomesquit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/AntonioMesquit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioMesquit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomesquit&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
