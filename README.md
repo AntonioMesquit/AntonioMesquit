@@ -6,7 +6,7 @@
 </div>
 </div>
 <div style=display: inline_block"><br>
-  <h1> Linguagens usadas. </h1> 
+  <h1 style="margin-bottom: 10px"> Linguagens usadas. </h1> 
   
   <img align="center" alt="Tonho-CSS" height="30px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tonho-HTML" height="30px" width="40"
