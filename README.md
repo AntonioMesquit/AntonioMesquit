@@ -1,4 +1,4 @@
-<img align="right" height="515em" src="https://raw.githubusercontent.com/gist/AntonioMesquit/97d485f4d5824086ba7633498fe6a143/raw/5407ddfb09aa88323284ae85e61c7614ce8a25f5/githubcard.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/AntonioMesquit/97d485f4d5824086ba7633498fe6a143/raw/5407ddfb09aa88323284ae85e61c7614ce8a25f5/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antonio Mesquita</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioMesquit&color=red" alt="Profile views" /> </p>
 
@@ -26,8 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex;">
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=AntonioMesquit&show_icons=true&theme=vision-friendly-dark" alt="AntonioMesquit's stats"/>
-<img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMesquit&layout=compact&theme=vision-friendly-dark" alt="Antonio Mesquit' most languages"/>
+<img width="395em" src="https://github-readme-stats.vercel.app/api?username=AntonioMesquit&show_icons=true&theme=vision-friendly-dark" alt="AntonioMesquit's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMesquit&layout=compact&theme=vision-friendly-dark" alt="Antonio Mesquit' most languages"/>
 </p>
 </div>
 
