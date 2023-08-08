@@ -1,21 +1,46 @@
-<div style=display: flex"> 
-<div>
-  <a href="https://github.com/AntonioMesquit">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AntonioMesquit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMesquit&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
-</div>
-<div style=display: inline_block"><br>
-  
-  <img align="center" alt="Tonho-CSS" height="30px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tonho-HTML" height="30px" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-</div>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AntonioMesquit/97d485f4d5824086ba7633498fe6a143/raw/5407ddfb09aa88323284ae85e61c7614ce8a25f5/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antonio Mesquita</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AntonioMesquit&color=red" alt="Profile views" /> </p>
 
-<div>
-  
-   <a href = "mailto:antonio109mesquita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/tonhao.j/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+- 👨‍💻 Studying Computer Science
 
-##
+- 🔭 Taking a front-end course in [Udemy](https://www.udemy.com/)
+
+- 💬 Practicing HTML, CSS, and JavaScript
+
+
+<br><br>
+
+## 🛠 &nbsp;Programming language being learned
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AntonioMesquit&show_icons=true&theme=vision-friendly-dark" alt="AntonioMesquit's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMesquit&layout=compact&theme=vision-friendly-dark" alt="Antonio Mesquit' most languages"/>
+</p>
+
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://twitter.com/antt_hi" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Antonio Mesquita-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/antonio-mesquita-467752287/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Antonio Mesquita-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/tonhao.j/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Antonio Mesquita-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
