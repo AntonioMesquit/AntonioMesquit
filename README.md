@@ -24,10 +24,10 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div style="display: flex;">
+<div style="display: flex;" sty>
 <p align="left">
 <img width="395em" src="https://github-readme-stats.vercel.app/api?username=AntonioMesquit&show_icons=true&theme=vision-friendly-dark" alt="AntonioMesquit's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMesquit&layout=compact&theme=vision-friendly-dark" alt="Antonio Mesquit' most languages"/>
+<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMesquit&layout=compact&theme=vision-friendly-dark" alt="Antonio Mesquit' most languages"/>
 </p>
 </div>
 
