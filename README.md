@@ -4,7 +4,7 @@
 
 - 👨‍💻 Studying Computer Science
 
-- 🔭 Taking a front-end course in [Udemy](https://www.udemy.com/)
+- 🔭 Taking a front-end course in [🚀](https://www.rocketseat.com.br/)
 
 - 💬 Practicing HTML, CSS, and JavaScript
 
