@@ -6,7 +6,7 @@
 
 - 🔭 Taking a front-end and back-end course in RocketSeat [🚀](https://www.rocketseat.com.br/)
 
-- 💬 Practicing HTML, CSS, and JavaScript
+- 💬 Practicing React, Back-And, Vite
 
 
 <br><br>
