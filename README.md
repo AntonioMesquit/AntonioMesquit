@@ -23,7 +23,10 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=React)&nbsp;
+<br>
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite)&nbsp;
+![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=Bun)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 
 
 
