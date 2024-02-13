@@ -6,7 +6,7 @@
 
 - 🔭 Taking a front-end and back-end course in RocketSeat [🚀](https://www.rocketseat.com.br/)
 
-- 💬 Practicing Next, Back-End, TypeScript
+- 💬 Practicing Next, Back-End, TypeScript.
 
 
 <br><br>
