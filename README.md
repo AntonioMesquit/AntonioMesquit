@@ -27,6 +27,7 @@
 ![Bun](https://img.shields.io/badge/-Bun-05122A?style=flat&logo=Bun)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=Fastify)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 
 
 
