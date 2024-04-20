@@ -48,7 +48,7 @@
 <p align="left" style="background:yellow">
 
 <a href="https://www.linkedin.com/in/antonio-mesquita-467752287/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Antonio Mesquita-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  
 </a>
 
 </p>
